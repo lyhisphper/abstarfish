@@ -1,0 +1,19 @@
+{
+    "name": "abstarfish/abstarfish",
+    "description": "self-control composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lyh",
+            "email": "894806814@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abstarfish\\Starfish\\":"src/Abstarfish/Starfish"
+        }
+    }
+}
